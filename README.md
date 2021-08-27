@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Junduk
 - 👀 I’m interested in Java/C#/Python programming and mobile app development.
 - 🌱 I’m currently learning Java, functionalities of Android Studio and creating a database.
-- 💞️ I’m looking to collaborate on crating a database or any Java projects.
+- 💞️ I’m looking to collaborate on creating a database or any Java projects.
 - 📫 How to reach me: Instagram - @trinaesttridesetsedam
                       Facebook - Dejan Junduk Kuzmanovic
 
