@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Junduk
-- 👀 I’m interested in Java/JavaScript/C#/Python/HTML programming and mobile app development.
-- 🌱 I’m currently learning JavaScript and Python, working in React, creating a database and connecting it to a web page.
-- 💞️ I’m looking to collaborate on creating a database or any Java/Python projects.
-- 📫 How to reach me: Instagram - @jedantritrisedam
-                      Facebook - Dejan Junduk Kuzmanovic
+- 👋 Hi, I’m @Junduk, 22 years old, based in Novi Sad - Serbia, originally from Čelinac - Bosnia and Herzegovina.
+- My interests: Java/JavaScript/Python programming and mobile app development.
+- Currently: Expanding my knowledge in Java, finishing a project in Python and working on my Bachelor's in React.
+- Short-future plan: Learn a lot more on databases and participate in any Java/Python projects.
+- Long-future plan: Master Java and get in the waters of Front-end development to become a Full-stack developer.
+- Socials: Instagram - @jedantritrisedam and @thislensemadethat
+           Facebook - Dejan Kuzmanovic
 
 <!---
 Junduk/Junduk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
