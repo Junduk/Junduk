@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Junduk, 22 years old, based in Novi Sad - Serbia, originally from Čelinac - Bosnia and Herzegovina.
+- 👋 Hi, I’m @Junduk, 23 years old, based in Novi Sad - Serbia, originally from Čelinac - Bosnia and Herzegovina.
 - My interests: Java/JavaScript/Python programming and mobile app development.
-- Currently: Expanding my knowledge in Java and working on my Bachelor's in React.
+- Currently: Expanding my knowledge in Java and just successfully defended my Bachelor thesis on "Geoportal development using React and OpenLayers libraries".
 - Short-future plan: Learn a lot more on databases and participate in any Java/Python projects.
 - Long-future plan: Master Java and get in the waters of Front-end development to become a Full-stack developer.
 - Socials: Instagram - @jedantritrisedam and @thislensemadethat
