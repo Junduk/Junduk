@@ -3,8 +3,11 @@
 - Currently: Expanding my knowledge in Python and just successfully defended my Bachelor thesis on "Geoportal development using React and OpenLayers libraries".
 - Short-future plan: Learn a lot more on databases and participate in any Java/Python projects.
 - Long-future plan: Master Python and get in the waters of Front-end development to become a Full-stack developer.
-- Socials: Instagram - @jedantritrisedam and @thislensemadethat
+- Socials: 
+           Instagram - @jedantritrisedam and 
+                     - @thislensemadethat
            Facebook - Dejan Kuzmanovic
+           Exercism - https://exercism.org/profiles/Junduk
 
 <!---
 Junduk/Junduk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
