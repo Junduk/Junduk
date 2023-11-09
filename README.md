@@ -3,6 +3,7 @@
 - Currently: Expanding my knowledge in React.
 - Short-future plan: Build a lot of projects and make a portfolio.
 - Long-future plan: Master basics of Front-End development and get in the waters of React-Native.
+- Hobbies: Photography, football, volleyball, music, etc.
 - Socials: 
            Instagram - @jedantritrisedam and 
                      - @thislensemadethat
