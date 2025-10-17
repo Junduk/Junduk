@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Junduk, 25 years old, based in Novi Sad - Serbia, originally from Čelinac - Bosnia and Herzegovina.
+- 👋 Hi, I’m @Junduk, 26 years old, based in Novi Sad - Serbia, originally from Čelinac - Bosnia and Herzegovina.
 - My interests: JavaScript programming and Mobile App development.
 - Currently: Working as a QA Engineer in Ottometric Serbia and expanding my knowledge in React.
 - Short-future plan: Build a lot of projects and make a portfolio.
